@@ -1,0 +1,40 @@
+#: locale=pt
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_4568B39C_4ABB_FCE9_41C2_A8DB18A25B6F.text = Q-52
+
+## Media
+
+### Audio
+audiores_5ED38765_4AC8_C458_41CA_E174835B57B6.mp3Url = media/audio_59B909A3_4AC8_CCDF_41CE_9BA8A825BEED_pt.mp3
+
+### Image
+imlevel_58471BF1_4ACB_CC38_41AC_05A4C937985C.url = media/panorama_46B72256_4AB8_BC79_41CC_BA944787AF86_HS_tva7c5iq_pt.png
+
+### Title
+panorama_46B72256_4AB8_BC79_41CC_BA944787AF86.label = 01(1)
+panorama_400A6234_4AB8_5C38_4190_416D4B8F10CC.label = 02
+panorama_40179F4B_4AB8_4468_41D2_A316851AEE03.label = 03
+panorama_4017EB86_4AB8_4CD8_41D2_79120EB5D1E9.label = 04
+panorama_4017B828_4AB8_4C29_41CD_572CCC45F0A3.label = 05
+panorama_4017A478_4AB9_C428_41C9_9301AE7C3482.label = 06
+panorama_4017F0B2_4AB9_DC39_41D2_1FA3AC5AB183.label = 07
+panorama_4017DE2E_4AB9_C429_41CD_197FBC8FE686.label = 08
+
+## Skin
+
+### Button
+Button_457FC0CC_4AC9_DC68_41CF_9A811BFC2D30.label = Entrar
+
+### Image
+Image_5A1F512C_4AC8_7C28_41CD_01B8D9629E1D.url = skin/Image_5A1F512C_4AC8_7C28_41CD_01B8D9629E1D_pt.png
+Image_5FAAF97D_4ADF_CC28_41D2_7B33239A04B2.url = skin/Image_5FAAF97D_4ADF_CC28_41D2_7B33239A04B2_pt.jpg
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 21
